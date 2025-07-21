@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>PEDRO CITOULA PÉREZ</title>
+    <link href="https://petercp01.github.io/PORTFOLIO/feed.xml" rel="self" />
+    <link href="https://petercp01.github.io/PORTFOLIO" />
+    <updated>2025-07-21T18:54:04+02:00</updated>
+    <author>
+        <name>PEDRO CITOULA PÉREZ</name>
+    </author>
+    <id>https://petercp01.github.io/PORTFOLIO</id>
+
+    <entry>
+        <title>PROYECTOS</title>
+        <author>
+            <name>PEDRO CITOULA PÉREZ</name>
+        </author>
+        <link href="https://petercp01.github.io/PORTFOLIO/proyectos-2/"/>
+        <id>https://petercp01.github.io/PORTFOLIO/proyectos-2/</id>
+        <media:content url="https://petercp01.github.io/PORTFOLIO/media/posts/4/Caminos-previos.png" medium="image" />
+
+        <updated>2025-07-21T17:51:10+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>INFORMACIÓN PERSONAL</title>
+        <author>
+            <name>PEDRO CITOULA PÉREZ</name>
+        </author>
+        <link href="https://petercp01.github.io/PORTFOLIO/informacion-personal/"/>
+        <id>https://petercp01.github.io/PORTFOLIO/informacion-personal/</id>
+        <media:content url="https://petercp01.github.io/PORTFOLIO/media/posts/1/_MG_8169.jpg" medium="image" />
+
+        <updated>2025-07-21T16:30:57+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://petercp01.github.io/PORTFOLIO/media/posts/1/_MG_8169.jpg" alt="" />
+                    Hola, yo soy Pedro, estoy recién graduado en el Máster en Arquitectura&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://petercp01.github.io/PORTFOLIO/media/posts/1/_MG_8169.jpg" class="type:primaryImage" alt="" /></p>
+                <p class="align-left">Hola, yo soy Pedro, estoy recién graduado en el Máster en Arquitectura por la UDC. Tras este período en el que me dediqué principalmente a la carrera, también participé en workshops los dos últimos veranos en los que pude aplicar e intercambiar conocimientos con otros alumnos de universidades europeas.</p>
+<p class="align-left">Ahora que termino mis estudios, estoy buscando entrar en el mundo laboral donde poder dedicarme y seguir aprendiendo y disfrutando de la arquitectura.  </p>
+<h1>ESTUDIOS</h1>
+<h6>CURSOS FINALIZADOS</h6>
+<p>2024-25     Máster Universitario en Arquitectura         UDC</p>
+<p>2019-24     Grado en Estudios de Arquitectura            UDC</p>
+<h6>CURSOS CAPACITACIÓN</h6>
+<p>2020-21     Cortadora láser                              UDC</p>
+<h1>ACTIVIDADES Y EXPERIENCIA</h1>
+<h5>WORKSHOPS</h5>
+<p>2023         Participación en Workshop NERU Bratsigovo, Bulgaria </p>
+<p>2024         Participación en Workshop NERU Porto do Son, Galicia</p>
+<h6>PROGRAMAS INFORMÁTICOS</h6>
+<p>CONOCIMIENTO AVANZADO</p>
+<p>AUTOCAD     CE3X      CYPE       LUMION     PHOTOSHOP      QGIS     SKETCHUP</p>
+<p>CONOCIMIENTO BÁSICO</p>
+<p>3DSMAX      RFEM      REVIT</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

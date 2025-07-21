@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PEDRO CITOULA PÉREZ",
+    "description": "",
+    "home_page_url": "https://petercp01.github.io/PORTFOLIO",
+    "feed_url": "https://petercp01.github.io/PORTFOLIO/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "PEDRO CITOULA PÉREZ"
+    },
+    "items": [
+        {
+            "id": "https://petercp01.github.io/PORTFOLIO/proyectos-2/",
+            "url": "https://petercp01.github.io/PORTFOLIO/proyectos-2/",
+            "title": "PROYECTOS",
+            "image": "https://petercp01.github.io/PORTFOLIO/media/posts/4/Caminos-previos.png",
+            "author": {
+                "name": "PEDRO CITOULA PÉREZ"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-21T17:51:10+02:00",
+            "date_modified": "2025-07-21T17:54:59+02:00"
+        },
+        {
+            "id": "https://petercp01.github.io/PORTFOLIO/informacion-personal/",
+            "url": "https://petercp01.github.io/PORTFOLIO/informacion-personal/",
+            "title": "INFORMACIÓN PERSONAL",
+            "summary": "Hola, yo soy Pedro, estoy recién graduado en el Máster en Arquitectura&hellip;",
+            "content_html": "<p class=\"align-left\">Hola, yo soy Pedro, estoy recién graduado en el Máster en Arquitectura por la UDC. Tras este período en el que me dediqué principalmente a la carrera, también participé en workshops los dos últimos veranos en los que pude aplicar e intercambiar conocimientos con otros alumnos de universidades europeas.</p>\n<p class=\"align-left\">Ahora que termino mis estudios, estoy buscando entrar en el mundo laboral donde poder dedicarme y seguir aprendiendo y disfrutando de la arquitectura.  </p>\n<h1>ESTUDIOS</h1>\n<h6>CURSOS FINALIZADOS</h6>\n<p>2024-25     Máster Universitario en Arquitectura         UDC</p>\n<p>2019-24     Grado en Estudios de Arquitectura            UDC</p>\n<h6>CURSOS CAPACITACIÓN</h6>\n<p>2020-21     Cortadora láser                              UDC</p>\n<h1>ACTIVIDADES Y EXPERIENCIA</h1>\n<h5>WORKSHOPS</h5>\n<p>2023         Participación en Workshop NERU Bratsigovo, Bulgaria </p>\n<p>2024         Participación en Workshop NERU Porto do Son, Galicia</p>\n<h6>PROGRAMAS INFORMÁTICOS</h6>\n<p>CONOCIMIENTO AVANZADO</p>\n<p>AUTOCAD     CE3X      CYPE       LUMION     PHOTOSHOP      QGIS     SKETCHUP</p>\n<p>CONOCIMIENTO BÁSICO</p>\n<p>3DSMAX      RFEM      REVIT</p>",
+            "image": "https://petercp01.github.io/PORTFOLIO/media/posts/1/_MG_8169.jpg",
+            "author": {
+                "name": "PEDRO CITOULA PÉREZ"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-07-21T16:30:57+02:00",
+            "date_modified": "2025-07-21T18:54:04+02:00"
+        }
+    ]
+}
