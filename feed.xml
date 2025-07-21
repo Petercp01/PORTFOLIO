@@ -3,14 +3,14 @@
     <title>PEDRO CITOULA PÉREZ</title>
     <link href="https://petercp01.github.io/PORTFOLIO/feed.xml" rel="self" />
     <link href="https://petercp01.github.io/PORTFOLIO" />
-    <updated>2025-07-21T18:54:04+02:00</updated>
+    <updated>2025-07-21T23:48:39+02:00</updated>
     <author>
         <name>PEDRO CITOULA PÉREZ</name>
     </author>
     <id>https://petercp01.github.io/PORTFOLIO</id>
 
     <entry>
-        <title>PROYECTOS</title>
+        <title>VIVIENDAS EN LAXE</title>
         <author>
             <name>PEDRO CITOULA PÉREZ</name>
         </author>
@@ -19,8 +19,19 @@
         <media:content url="https://petercp01.github.io/PORTFOLIO/media/posts/4/Caminos-previos.png" medium="image" />
 
         <updated>2025-07-21T17:51:10+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://petercp01.github.io/PORTFOLIO/media/posts/4/Caminos-previos.png" alt="" />
+                    Este proyecto se ha realizado durante el curso 2021-22. Se proponía realizar&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://petercp01.github.io/PORTFOLIO/media/posts/4/Caminos-previos.png" class="type:primaryImage" alt="" /></p>
+                <p>Este proyecto se ha realizado durante el curso 2021-22. Se proponía realizar una casa para un matrimonio residente en la zona que, además de su propia residencia, desea destinar una parte a alojamientos turísticos. Estos servirán también para resolver vacaciones y visitas de sus 3 hijos con sus respectivas familias.</p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>INFORMACIÓN PERSONAL</title>
